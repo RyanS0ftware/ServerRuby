@@ -1,7 +1,7 @@
 # ServerRuby
 # usando 'sinatra'
 
-codigo
+#codigo
 
 require 'sinatra'
 
